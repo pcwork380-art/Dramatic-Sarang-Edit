@@ -1,0 +1,6 @@
+{
+  "name": "Dramatic Sarang Edit",
+  "description": "Emotional • Dramatic • Korean Style Video Edits",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
